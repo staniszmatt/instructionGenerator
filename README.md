@@ -25,6 +25,7 @@ git clone https://github.com/electron/electron-quick-start
 cd electron-quick-start
 # Install dependencies
 npm install
+For MacBook Pro I needed to run "sudo npm install -g  --unsafe-perm=true --allow-root" to get electron to install. 
 # Run the app
 npm start
 ```
