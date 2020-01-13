@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+}
+
+.mainBody {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: li;
+}
+
+.mainBackground {
+  width: 100%;
+  opacity: 25%;
+}
